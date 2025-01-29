@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1433437682797340100
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9042a5d800cc5cc4f9c3d1dcbff35439, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_entries:
+  - {fileID: 1320847888175481826}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c607c09a2416a2429d2729cde80bcab, type: 3}
+  m_Name: Boss Graph
+  m_EditorClassIdentifier: 
+  m_root: {fileID: 2222130735322513875}
+  m_blackboard: {fileID: -1433437682797340100}
+  m_nodes:
+  - {fileID: 2222130735322513875}
+  - {fileID: 4411827775615480152}
+  - {fileID: 5338263941629065535}
+  - {fileID: 5249013350108158106}
+  m_zoom: 1.8400002
+  m_pan: {x: -326.54987, y: -200.84004}
+--- !u!114 &1320847888175481826
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69338f26bc080584993f1e9fa0b4a4fe, type: 3}
+  m_Name: GameObjectKey
+  m_EditorClassIdentifier: 
+  m_description: 
+  m_typeString: Schema.Internal.Types.GameObject, Schema, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  m_blackboard: {fileID: -1433437682797340100}
+--- !u!114 &2222130735322513875
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 016fbbd584620f64ab35ac6745c7564a, type: 3}
+  m_Name: Root
+  m_EditorClassIdentifier: 
+  m_uID: 7781e4d990b849eda0d98669369606c2
+  m_parent: {fileID: 0}
+  m_children:
+  - {fileID: 4411827775615480152}
+  m_conditionals: []
+  m_modifiers: []
+  m_graphPosition: {x: 89.179985, y: 0}
+  m_priority: 1
+  m_graph: {fileID: 11400000}
+  m_comment: 
+  m_enableStatusIndicator: 1
+--- !u!114 &4411827775615480152
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 972b97b1854464e439aae113342e6a4f, type: 3}
+  m_Name: Sequence
+  m_EditorClassIdentifier: 
+  m_uID: e1a6af0cc5fe4cddae0ff324300eca3f
+  m_parent: {fileID: 2222130735322513875}
+  m_children:
+  - {fileID: 5338263941629065535}
+  - {fileID: 5249013350108158106}
+  m_conditionals: []
+  m_modifiers: []
+  m_graphPosition: {x: 69.77199, y: 173.664}
+  m_priority: 2
+  m_graph: {fileID: 11400000}
+  m_comment: 
+  m_enableStatusIndicator: 1
+--- !u!114 &5249013350108158106
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d536feb5b1d49094f82f5d1af00e82be, type: 3}
+  m_Name: Wait
+  m_EditorClassIdentifier: 
+  m_uID: c989935c6d2d42648cf5d17478d4caae
+  m_parent: {fileID: 4411827775615480152}
+  m_children: []
+  m_conditionals: []
+  m_modifiers: []
+  m_graphPosition: {x: 247.32002, y: 419.80798}
+  m_priority: 4
+  m_graph: {fileID: 11400000}
+  m_comment: 
+  m_enableStatusIndicator: 1
+  seconds:
+    m_entry: {fileID: 0}
+    m_valuePath: 
+    m_dynamicName: 
+    m_isDynamic: 0
+    m_filters:
+    - System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    m_inspectorValue: 3
+--- !u!114 &5338263941629065535
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad08f78ce3ce432b9b0c62a2781be960, type: 3}
+  m_Name: Get Self
+  m_EditorClassIdentifier: 
+  m_uID: 3c916960b0c441e8a60c7e6cc653f960
+  m_parent: {fileID: 4411827775615480152}
+  m_children: []
+  m_conditionals: []
+  m_modifiers: []
+  m_graphPosition: {x: -84.640015, y: 414.288}
+  m_priority: 3
+  m_graph: {fileID: 11400000}
+  m_comment: 
+  m_enableStatusIndicator: 1
+  gameObject:
+    m_entry: {fileID: 1320847888175481826}
+    m_valuePath: 
+    m_dynamicName: 
+    m_isDynamic: 0
+    m_filters:
+    - UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    m_inspectorValue: {fileID: 0}

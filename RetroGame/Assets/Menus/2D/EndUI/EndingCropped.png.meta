@@ -1,0 +1,3295 @@
+fileFormatVersion: 2
+guid: 738d5cec07e8ab14da43f67689fa707c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EndingCropped_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10366
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a1b3979a4c64245947dc4d6122e7a5
+      internalID: -1176605430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_1
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 10366
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68379790bf0a844c88e3995d66deed1
+      internalID: -1217214333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_2
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 10366
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aecd257aedd424894a0fa4f0159108
+      internalID: 126091503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_3
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 10366
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5f7f42d4874fa4e91c1b1069e73b8b
+      internalID: 7845250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_4
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 10366
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58fdd001e837284b82695a83fdc1d10
+      internalID: -23494973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_5
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 10366
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe4af2990e27634fb0455842229d80e
+      internalID: -1233917945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_6
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 10366
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f835840733fe84d8effb90101f86eb
+      internalID: 1209352003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_7
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 10366
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e85ad0a70e7f24d92e190904e1bdc8
+      internalID: -1006673758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_8
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 10366
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a51ee30fc9bb043933f2c4d3bf2085
+      internalID: 1206455865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9716
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4436feb0a2bb04aade1c64d66e40eb
+      internalID: 1548963672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_10
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 9716
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7a9b21d4a40c644bbd9db148faf789
+      internalID: -1388047261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_11
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 9716
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a6c2db9e2a67647af6ba6170a86f08
+      internalID: 1410129696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_12
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 9716
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff37ba852e6c134c80c30bba8b091a3
+      internalID: 137684635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_13
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 9716
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1bf87dfd3289640a9bb037cbc1b518
+      internalID: -1048759280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_14
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 9716
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e49e3f36ca0dd4897604d8c78c4027
+      internalID: -573027289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_15
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 9716
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07da42342b558ea4eb738366caf2d378
+      internalID: 1862826232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_16
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 9716
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cea3df6febe24343a061c01655c8574
+      internalID: -354245273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_17
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 9716
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797759907c4193945abd3b171b5f0262
+      internalID: -1281629516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9066
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbd75642f1295d4c81bfef6ec9ecbe7
+      internalID: -1312892456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_19
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 9066
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d091119d5784fb74a9b81c6ba6651f2f
+      internalID: -1100552748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_20
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 9066
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81812d5ea0cb67498bde6d9853679f3
+      internalID: -1677588059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_21
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 9066
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c49f2e85e9a01048b34472d9cfe5c30
+      internalID: 1747937108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_22
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 9066
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65855fa49ca185049b246a7226fd587b
+      internalID: -793820664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_23
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 9066
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fd6386833a0d84ca7b903ac6fe80d3
+      internalID: -1497191042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_24
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 9066
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e8ad05a69969f4289154f1db9a92bd
+      internalID: 2129831978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_25
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 9066
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65184a230f30d2488c82d1edb98f02f
+      internalID: 1708027548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_26
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 9066
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cd6d953b8671045accb93c1c30a476
+      internalID: -489310344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8416
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697a3e8b215305c45a7ccfaab3569095
+      internalID: -111039522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_28
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 8416
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fc863d0e15d804a82a96c245178d26
+      internalID: -949894924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_29
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 8416
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db975314e62de9442946938b9c544404
+      internalID: 10678028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_30
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 8416
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a177c424dad744245842c67ee543e6ea
+      internalID: 1228794400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_31
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 8416
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f792b001563091e45b8e461fc8a9ad34
+      internalID: -507365853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_32
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 8416
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa8e18fd21a5534aa83fc69e80a6863
+      internalID: -1614331079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_33
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 8416
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efec72fdd2042fb4e8779776f1d068ce
+      internalID: 1445313490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_34
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 8416
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719395b2257abf74fa18a1dcf1f3d26f
+      internalID: 1756452125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_35
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 8416
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10d771b4d5c9ce46a07e6a3a5294375
+      internalID: -1866048186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7766
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184ca0e682fba6d4a8df9adf992217c4
+      internalID: -1886500874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_37
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 7766
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a6f92feffecd84eb3121ffe028e1ed
+      internalID: -812991322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_38
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 7766
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543551a97a1800c489fbd703d386d75f
+      internalID: 401694787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_39
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 7766
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3053c93859c397e4faeb88edcc3fe3ef
+      internalID: -1475676499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_40
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 7766
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c5dad4aa07fc543b5e21b4a1696b8d
+      internalID: 8549500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_41
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 7766
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5092af9c8e4cc9143adf9e2f659868f6
+      internalID: 688757992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_42
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 7766
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f428f5d34a0ab498b2a853f56ac317
+      internalID: -243423184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_43
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 7766
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204e13f690d4ce54e932035cec6a18e4
+      internalID: -2146327653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_44
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 7766
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f1f32c18f92f24fabb81fbaef7b254
+      internalID: -890136140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7116
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b5fefbbf63d5347b31d73c40c29f9b
+      internalID: -846288610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_46
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 7116
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfb9ca0dbea65747891678838535f31
+      internalID: 1368715939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_47
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 7116
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb0aa7e66c0a374aa6f6a88ad7eb8be
+      internalID: 1047150058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_48
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 7116
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c88ed4cb3821542bc5a0cb5efcde6b
+      internalID: -721606757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_49
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 7116
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d287e34cfeb35499ee3c30fa39f330
+      internalID: -185438874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_50
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 7116
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9567d695e422f4349b66d1a6a6dc2b98
+      internalID: -62922732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_51
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 7116
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e9850d671c2244186996f553bc622e
+      internalID: 44761478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_52
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 7116
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a68813f1ab4ea4ab98f0377f70bf51
+      internalID: 1181247608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_53
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 7116
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a53eb7c10a83447a7ddc769dc5cdfb
+      internalID: -1730609662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6466
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93692efe43caf6049a1f20e760afd24a
+      internalID: 1232653474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_55
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 6466
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ceaeec01f03e3419b6275c33f45aaa
+      internalID: 986050920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_56
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 6466
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850670882e9360e4292895bfa96e714e
+      internalID: 209239770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_57
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 6466
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8ec87351bc58c44890c1d35e1f721b
+      internalID: 1026868996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_58
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 6466
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6836cab5fb4c24ca73d81fc532cec0
+      internalID: 725834998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_59
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 6466
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5935879b7412996458a785f76d9e6ef0
+      internalID: -600259511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_60
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 6466
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593f22735d706a442b084e48e7eabb70
+      internalID: -745709840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_61
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 6466
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5fa8ab791e443439f9428b0cd9010b
+      internalID: 350445788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_62
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 6466
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22e6a7dbe28ba84b9bc540f850b7921
+      internalID: 1483105167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5816
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c02e60ded5b6b4ca7286ce7b06866b
+      internalID: 1538838553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_64
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 5816
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7265b18ca0528408a90198d1e9c03e
+      internalID: -666561022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_65
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 5816
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab38dd1b4734244ab3a8024ef8c51e4
+      internalID: -192609383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_66
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 5816
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dba620466ec3249b7c0228f9b40092
+      internalID: -86768498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_67
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 5816
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8d8b31b872fb54c96d5df433f6a31d
+      internalID: 258601079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_68
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 5816
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce7390dae9e15b4188186b7ff9f4baf
+      internalID: -280348704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_69
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 5816
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38cc98c968172e4588053c51332cc12
+      internalID: 150061183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_70
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 5816
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf0be2aa493e534a8fc185ee9f3c2aa
+      internalID: 1607218951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_71
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 5816
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee580fab68d0c6944bc90b1c99dd1061
+      internalID: 1126976013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5166
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8997b4a20b1c240408942ae8318db0a9
+      internalID: -567861285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_73
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 5166
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbad8f7eb4e63da4f90ad29d87e688af
+      internalID: -332168503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_74
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 5166
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e9e810374a99f4cb10b7b5982cfd55
+      internalID: -1484342428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_75
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 5166
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e232d2a1b96d34d4aa0c0caeb175218e
+      internalID: -1626042372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_76
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 5166
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ace4ae35d4ac34d9250392ccf9e279
+      internalID: 1254781572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_77
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 5166
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0092c9582afc049ad0769a322080b7
+      internalID: -808927136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_78
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 5166
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087ffa793132f2c4abdd74c6d5444059
+      internalID: 1063707444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_79
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 5166
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dafaf43785ef404296720ad6795f1ac
+      internalID: 1218651038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_80
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 5166
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464aa57bb66504942a18b98ec89e5411
+      internalID: 1822911505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4516
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1599e93c23c4214297e10ebbb233ae8
+      internalID: 646687708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_82
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 4516
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf45ec9326b0a044797239dfc91415df
+      internalID: -1505526703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_83
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 4516
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff43bf312ccb8fe41842bdc96305d195
+      internalID: -894885894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_84
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 4516
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b8904ae155f5d48b35ebd6299bc3cf
+      internalID: -252563468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_85
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 4516
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064304b41f7c945418455c78a646f6ca
+      internalID: 900775494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_86
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 4516
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb89323e1668bb449d9dadc62371689
+      internalID: -1062367805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_87
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 4516
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ae342314c72364db3a049eff1c9c21
+      internalID: -171419565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_88
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 4516
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82356a471a02e8a4b85d70f78d5f3a02
+      internalID: 866482910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_89
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 4516
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5133dfa6899cb4da5c65b0f3c53635
+      internalID: -562261321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3866
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce13b4c5e18df3e4194f346fc4a59645
+      internalID: -856751581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_91
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 3866
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d2bcf3f0252b9449cf7aac75cb9d74
+      internalID: -1850145575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_92
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3866
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b70cead54645744bb7c199535fac47
+      internalID: 1600952235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_93
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3866
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2c1732b32187b4cbfffa7339a43c74
+      internalID: 1073541749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_94
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 3866
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3341ec5d15f07840b44e9dfe1bf48be
+      internalID: -917152361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_95
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 3866
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd8de252b4474448b509db9799eae50
+      internalID: -1956780929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_96
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 3866
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e245a8b66bda544bbeac9a03a3993bd
+      internalID: 322897789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_97
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 3866
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c409251daca0741a0220ebfc19272b
+      internalID: -1287369585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_98
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 3866
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935c6243e305804449c329d2945d80ca
+      internalID: 1094854854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3216
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bf94634aa2f56448a2598bcc4a3923
+      internalID: 1976486253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_100
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 3216
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1a4b4e827445741961e85878493560
+      internalID: 701865844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_101
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3216
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d3be7749d85c41b4138e941605089
+      internalID: -753606628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_102
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3216
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f291d401e4eff543a2d1e8d54bd0375
+      internalID: 1920207627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_103
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 3216
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596b87b4fe6a1904cab47f372507b14f
+      internalID: -1806057072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_104
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 3216
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa8e68369fcc82488c1011f42431a02
+      internalID: -1296660892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_105
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 3216
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a5a3aae808d884fba3a65397fdaaa2
+      internalID: 140109516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_106
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 3216
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d1f3c53036e314b92242bbb0ebf280
+      internalID: -956788472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_107
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 3216
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b01c391c36924d4c8e3d18e5bf5f86c
+      internalID: -1626199771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2566
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a200bbbd429ac954aa2b3018792d2ff6
+      internalID: 1842428419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_109
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2566
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61caa07cb933d6f42bf918d49766e167
+      internalID: -8534354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_110
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2566
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadc0873a8201a44b969914bf62c3571
+      internalID: 1094790051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_111
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2566
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ba834bfa999814b9d6c42ce20d339e
+      internalID: 1687888380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_112
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 2566
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66359d429d3fa349968e73f1008f6f3
+      internalID: -729656556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_113
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 2566
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8d0d6f9ccdead4199b91bd6b40adfe
+      internalID: -1213004764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_114
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 2566
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23164c066dd5c4345897e68e934c9cc1
+      internalID: -861213780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_115
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 2566
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ba01193adae154584bea71ebb4708b
+      internalID: -1986305157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_116
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 2566
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7b65d82b84d3b4cabb03cf3b28929d
+      internalID: 1193827736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1916
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7a8bc38ebbee54abc3c44548fee711
+      internalID: -348097099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_118
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1916
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea6c4dd5c022884db6bfb46eb35775e
+      internalID: 846990780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_119
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1916
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7880d52b8ee6a0941888dbb6c75c7208
+      internalID: -545271966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_120
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1916
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c648c37fcf98d4479d26905e287ae08
+      internalID: 2045156633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_121
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 1916
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80724556302fa2a48b7699b2ee159e80
+      internalID: -1592421883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_122
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 1916
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e4d99ecae6fca40b92ff92bed24d85
+      internalID: 1218866116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_123
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 1916
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cb882fa5c98e849a414775f4dfc21d
+      internalID: -1298780726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_124
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 1916
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cb70e44ba08d14487e67c471aa6a43
+      internalID: 2052036905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_125
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 1916
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97744b5ab5da5d4aadf8a64859bff10
+      internalID: -773798110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1266
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ddbeada9dd8124e8125402eb4d5bfd
+      internalID: -684999540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_127
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1266
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbaf5aa4dee2f64580d4196f862535f
+      internalID: -1540868474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_128
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1266
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c55795b7d058834288081f74cd61d40
+      internalID: -603350241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_129
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1266
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889c3d0310cbb5f468d75804823e7363
+      internalID: 220117791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_130
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 1266
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e63682d7828c144bd8ce206acc30c0
+      internalID: 1234221389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_131
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 1266
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183b1d9d5c14fe849be744b07fb334aa
+      internalID: 1862500650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_132
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 1266
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fa802362b232b4ab7c600c8190f13c
+      internalID: -184594329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_133
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 1266
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e88f1667d21bd94bb67b7269fda8b92
+      internalID: -283601793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_134
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 1266
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d3022ffc20f3b4c8689b008e11748d
+      internalID: -1712603215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d658a185c2ba849839b476ce6d30e3
+      internalID: -807211198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_136
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 616
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51af6f7c48b3fad49837196d2e118d60
+      internalID: 1325884122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_137
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 616
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9fa1706607ecd40a2afb06bfddc85f
+      internalID: -373458938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_138
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 616
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c17e60eeee6ed429de92bae979cdc2
+      internalID: -1736184534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_139
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 616
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f4863c6d9708a4f87201176832acc5
+      internalID: 1436909953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_140
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 616
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01a8433883ef4748996981f588bf8db
+      internalID: 1279168471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_141
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 616
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ce37cf6b62c43458c018306677987b
+      internalID: -1982377817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_142
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 616
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2d210cbf2523b48bcc5eeb644ecaaa
+      internalID: -1923355076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCropped_143
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 616
+        width: 1150
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd57a965d36fbb4c9456a1159b8d6ed
+      internalID: -1692710448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c0744fdf2c76cb9488bd20003afcf790
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EndingCropped_0: -1176605430
+      EndingCropped_1: -1217214333
+      EndingCropped_10: -1388047261
+      EndingCropped_100: 701865844
+      EndingCropped_101: -753606628
+      EndingCropped_102: 1920207627
+      EndingCropped_103: -1806057072
+      EndingCropped_104: -1296660892
+      EndingCropped_105: 140109516
+      EndingCropped_106: -956788472
+      EndingCropped_107: -1626199771
+      EndingCropped_108: 1842428419
+      EndingCropped_109: -8534354
+      EndingCropped_11: 1410129696
+      EndingCropped_110: 1094790051
+      EndingCropped_111: 1687888380
+      EndingCropped_112: -729656556
+      EndingCropped_113: -1213004764
+      EndingCropped_114: -861213780
+      EndingCropped_115: -1986305157
+      EndingCropped_116: 1193827736
+      EndingCropped_117: -348097099
+      EndingCropped_118: 846990780
+      EndingCropped_119: -545271966
+      EndingCropped_12: 137684635
+      EndingCropped_120: 2045156633
+      EndingCropped_121: -1592421883
+      EndingCropped_122: 1218866116
+      EndingCropped_123: -1298780726
+      EndingCropped_124: 2052036905
+      EndingCropped_125: -773798110
+      EndingCropped_126: -684999540
+      EndingCropped_127: -1540868474
+      EndingCropped_128: -603350241
+      EndingCropped_129: 220117791
+      EndingCropped_13: -1048759280
+      EndingCropped_130: 1234221389
+      EndingCropped_131: 1862500650
+      EndingCropped_132: -184594329
+      EndingCropped_133: -283601793
+      EndingCropped_134: -1712603215
+      EndingCropped_135: -807211198
+      EndingCropped_136: 1325884122
+      EndingCropped_137: -373458938
+      EndingCropped_138: -1736184534
+      EndingCropped_139: 1436909953
+      EndingCropped_14: -573027289
+      EndingCropped_140: 1279168471
+      EndingCropped_141: -1982377817
+      EndingCropped_142: -1923355076
+      EndingCropped_143: -1692710448
+      EndingCropped_15: 1862826232
+      EndingCropped_16: -354245273
+      EndingCropped_17: -1281629516
+      EndingCropped_18: -1312892456
+      EndingCropped_19: -1100552748
+      EndingCropped_2: 126091503
+      EndingCropped_20: -1677588059
+      EndingCropped_21: 1747937108
+      EndingCropped_22: -793820664
+      EndingCropped_23: -1497191042
+      EndingCropped_24: 2129831978
+      EndingCropped_25: 1708027548
+      EndingCropped_26: -489310344
+      EndingCropped_27: -111039522
+      EndingCropped_28: -949894924
+      EndingCropped_29: 10678028
+      EndingCropped_3: 7845250
+      EndingCropped_30: 1228794400
+      EndingCropped_31: -507365853
+      EndingCropped_32: -1614331079
+      EndingCropped_33: 1445313490
+      EndingCropped_34: 1756452125
+      EndingCropped_35: -1866048186
+      EndingCropped_36: -1886500874
+      EndingCropped_37: -812991322
+      EndingCropped_38: 401694787
+      EndingCropped_39: -1475676499
+      EndingCropped_4: -23494973
+      EndingCropped_40: 8549500
+      EndingCropped_41: 688757992
+      EndingCropped_42: -243423184
+      EndingCropped_43: -2146327653
+      EndingCropped_44: -890136140
+      EndingCropped_45: -846288610
+      EndingCropped_46: 1368715939
+      EndingCropped_47: 1047150058
+      EndingCropped_48: -721606757
+      EndingCropped_49: -185438874
+      EndingCropped_5: -1233917945
+      EndingCropped_50: -62922732
+      EndingCropped_51: 44761478
+      EndingCropped_52: 1181247608
+      EndingCropped_53: -1730609662
+      EndingCropped_54: 1232653474
+      EndingCropped_55: 986050920
+      EndingCropped_56: 209239770
+      EndingCropped_57: 1026868996
+      EndingCropped_58: 725834998
+      EndingCropped_59: -600259511
+      EndingCropped_6: 1209352003
+      EndingCropped_60: -745709840
+      EndingCropped_61: 350445788
+      EndingCropped_62: 1483105167
+      EndingCropped_63: 1538838553
+      EndingCropped_64: -666561022
+      EndingCropped_65: -192609383
+      EndingCropped_66: -86768498
+      EndingCropped_67: 258601079
+      EndingCropped_68: -280348704
+      EndingCropped_69: 150061183
+      EndingCropped_7: -1006673758
+      EndingCropped_70: 1607218951
+      EndingCropped_71: 1126976013
+      EndingCropped_72: -567861285
+      EndingCropped_73: -332168503
+      EndingCropped_74: -1484342428
+      EndingCropped_75: -1626042372
+      EndingCropped_76: 1254781572
+      EndingCropped_77: -808927136
+      EndingCropped_78: 1063707444
+      EndingCropped_79: 1218651038
+      EndingCropped_8: 1206455865
+      EndingCropped_80: 1822911505
+      EndingCropped_81: 646687708
+      EndingCropped_82: -1505526703
+      EndingCropped_83: -894885894
+      EndingCropped_84: -252563468
+      EndingCropped_85: 900775494
+      EndingCropped_86: -1062367805
+      EndingCropped_87: -171419565
+      EndingCropped_88: 866482910
+      EndingCropped_89: -562261321
+      EndingCropped_9: 1548963672
+      EndingCropped_90: -856751581
+      EndingCropped_91: -1850145575
+      EndingCropped_92: 1600952235
+      EndingCropped_93: 1073541749
+      EndingCropped_94: -917152361
+      EndingCropped_95: -1956780929
+      EndingCropped_96: 322897789
+      EndingCropped_97: -1287369585
+      EndingCropped_98: 1094854854
+      EndingCropped_99: 1976486253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

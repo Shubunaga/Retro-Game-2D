@@ -1,0 +1,3427 @@
+fileFormatVersion: 2
+guid: 43d68461cbd69dc48a9301adca9e304c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EndingLevel03_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0325dcce720c94b8a26726a6909015
+      internalID: -1125385377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d1a8aaa506c8045ae556192630c6e0
+      internalID: 1760557410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd7862dcaab9054fbe97d84fcf401c5
+      internalID: 880400767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22e7302fb91bd34bb4e2e933a6937b5
+      internalID: 58685305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdece786646739b46bbc01713b732793
+      internalID: 558088356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5049608f8cb5e649809025cc17128ff
+      internalID: -215967638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0d7b3c463d98547a1b380011d7674a
+      internalID: -700550890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a6bda9fcad11e47b3fca334656580c
+      internalID: 300310899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2000
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27de23b33024854784a03f81ae08f60
+      internalID: 761887311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2000
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1571c843b15eb7e469b0cf891a65078a
+      internalID: 2090027481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2000
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db578e7111071254784a2759dbaaa0a7
+      internalID: -1766174178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2000
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3e1727a8c111e4eb89abc3d5d63463
+      internalID: -2077277494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2000
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d3c2d3a5bb77143a64a9abfb838ed3
+      internalID: -870375300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2000
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4965d4a18e8f7a44aac8a79731c24183
+      internalID: -920239667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1900
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ec7544e48b098468ad84eb003ed881
+      internalID: -1091701708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1900
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d04f573b89b13418a002e8de122f1b
+      internalID: 971166207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1900
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dc64204d84e844dbc7d49afd7f3b36
+      internalID: -1645453545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1900
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab7f3740c32e1549b8a81ccd9caf6fa
+      internalID: -104521477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_18
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1900
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b0036e84ea2b246b8211e3e621da91
+      internalID: -1498650519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_19
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1900
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eaf7460d9116642ab5581dbfc84dc7
+      internalID: 1325251486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_20
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1900
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d765c6c89271a9943bb87ca0a230ddb0
+      internalID: 41727245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ada747098b572e4dbd18ffda72ed194
+      internalID: 1026009063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1800
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c627e29fd7361e4cb35f9f8e39462ce
+      internalID: 1655291795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1800
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3950a0e1aae56342a27a11e3fad1405
+      internalID: -2082149674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1800
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91ad732d1e8f6340bef5c81b8244b93
+      internalID: 1115816927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_25
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1800
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412b0a14cf9a7e9448cf0ce478c39efa
+      internalID: 2026949611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_26
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1800
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59d7571821e7d94f950fa934ce24d43
+      internalID: -384723093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_27
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1800
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a34253e83ae0a42b2fb45016f2c0bd
+      internalID: -1290473585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1700
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7f585fc28e4964789506cf6d24c716
+      internalID: -1393470693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1700
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080f1620b2324294db8856f2c1b23e38
+      internalID: -1413961866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_30
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1700
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e384ce21f7397764e869c991d6158fa3
+      internalID: -1400595486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1700
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7ba588326737a49b988689e907c26f
+      internalID: -223102014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_32
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1700
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9a000c2dcc4d4429d02d9c54ded8b9
+      internalID: 1673260307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_33
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1700
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7da5f1f46cae948b72698251203b94
+      internalID: 1893974659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_34
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1700
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f8e75f4fcbad9449d1d20bb466cf14
+      internalID: 291109712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f51e3aa5e29d05409a4fd334322cca2
+      internalID: -468664582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1600
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87478f5e89e07d04da5bb8f68bcb8812
+      internalID: 1839837297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1600
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2917bbb815c3b2042898e4f2905f4fd9
+      internalID: -244530608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1600
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669da94505266d64ba17f705b92d4933
+      internalID: 1835530354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_39
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1600
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9965bb6870b83a54aa474448ebf93f6b
+      internalID: -757137010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_40
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1600
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a6a15e691ef234083c2bf9924e019d
+      internalID: 52961197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_41
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1600
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cfaf23a88dfbf40883ee4992985a18
+      internalID: 280179659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0868dc4712dc844ba058376ef305d4
+      internalID: 1205179809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1500
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b4b6334aaa90f45abb221a469cb39e
+      internalID: -166523203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1500
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560e55c95e427fb42b5ab705cc689729
+      internalID: -1808031294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_45
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1500
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0f1a6ad96c38341bf4475c6f284db3
+      internalID: -350284325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_46
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1500
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445955f415addcd48b2b057c541d41c1
+      internalID: -1866043712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_47
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1500
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9a006498fdea04f89c64315945297c
+      internalID: 831869578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1500
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a1205880ba05d419b0b8f5717b89cc
+      internalID: -1960895799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28144877d18b1fb41925a7bab1743d66
+      internalID: -271848103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1400
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3a0d47dcc82664083fa28bf3473335
+      internalID: 885978715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_51
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1400
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362606bff26c4c94380c9f4cc3ca10a1
+      internalID: 1953762867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_52
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1400
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d66c0a70003274d849c63301b2543d
+      internalID: -1192043801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_53
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1400
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515b8a12a0a9b514089f1a77e6347833
+      internalID: 1665279165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_54
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1400
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c7faa60adf1bb4e8c57f7feb2f849a
+      internalID: -1690836820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_55
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1400
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6603068135f30d6458d68cc7783079e9
+      internalID: 800704043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d98af41a704164dbce22c53df86f56
+      internalID: -736773910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1300
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa33de0afaf78e1428ef338c64bc3ac2
+      internalID: -1987362816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1300
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239c44a9dec5fc646aae020ffc6010e7
+      internalID: 457435446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_59
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1300
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb98541d2cf8f14688874562b00e08b
+      internalID: 2074785521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_60
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1300
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c3a2c5271eb4e4ea231c35ded63bae
+      internalID: -621420227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_61
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1300
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15a23db6c7f33049801d6f0abdfb89a
+      internalID: 568741523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_62
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1300
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be561627e097bca41a57c7f731722c1c
+      internalID: -1153279921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd33d1ef15c698549bbfaea3537052de
+      internalID: -1170541304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1200
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca5288af024bb04e9b2ae2901d2b0b5
+      internalID: -1585502331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1200
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0a8f9222623244d9a99f1a665b16ef
+      internalID: -2083804502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_66
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1200
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2e3351be6c19a479e72afe6bc0ca5f
+      internalID: 674896027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_67
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1200
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399665d83d1aa094bb65da25ebf3253e
+      internalID: 378696093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_68
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1200
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2137f5e1adfd144aac3bcc19989914
+      internalID: 542236334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_69
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1200
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dad40d9f4a99a48b8fd0b56e766ee0
+      internalID: 1828021784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a0ad0413aa42447bd4f53c8b3b10fb
+      internalID: -1309765853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72bf04ae410a7a4fa914fa93122ef4c
+      internalID: 607326457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_72
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72056fbdbc93d354fa38154ca4ed4eff
+      internalID: 434598681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_73
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c916f1af90bc094b9452706b2c7a154
+      internalID: -754313479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_74
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05c2d8074e7c164dbaaaef53946ca38
+      internalID: -647217434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_75
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ad3f4edf61c184ba10551b893a6189
+      internalID: -891644241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_76
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8e575e447634842812d9ebd3057521
+      internalID: -1667917489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91067a776491f0c45b0ed604a8a32d5a
+      internalID: -68865312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_78
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1000
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1902119fafe6cde4b899e67fed534d85
+      internalID: 1293842158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_79
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1000
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c433d7c946caac84da87c44ddc9c1b16
+      internalID: 891499836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_80
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1000
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c965379b0efd3684994a52f3361d7a3a
+      internalID: -638270302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_81
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1000
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b07fb688f6f24e42ba367daac7f1961
+      internalID: 1449162200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_82
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1000
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e203434a7ccc6d4d97f0c247a1584d7
+      internalID: 1873190593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_83
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1000
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44471f980dcd1e44fb1f54336ebd3877
+      internalID: 329602441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e7e3c7e9268f44981b1465ebd39ad6
+      internalID: 1978615553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 900
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6346c4e5c8dab594b9549c840ccb3abb
+      internalID: -1318657891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_86
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 900
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a08366bdd633b4f9c3ef77052d0223
+      internalID: 1744281662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_87
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 900
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1329b921c214a7e43b51fa910d84bf4e
+      internalID: -1945342458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_88
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 900
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6f605804807d741902cd2c8b993a19
+      internalID: 69089940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_89
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 900
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bacba08fbcad8b469c25cd57052f3b0
+      internalID: -366817412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_90
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 900
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae51b0af3dc9834f9e3721ed7f878b8
+      internalID: 97565176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e487cda3c16df4b9e86ec410b0fd25
+      internalID: -521398786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 800
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1f29b76d1630245bfc6730d4971253
+      internalID: 907399745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_93
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 800
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337ff836930f7594880e78bc91a404c4
+      internalID: 2137130847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_94
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 800
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fbfcaeb3d3acd4e8ef9beb62ab6d0e
+      internalID: -1151407813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_95
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 800
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f14187a25c0f8449e4b496a7edb5d6
+      internalID: -1254080440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_96
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 800
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb66422316845048a0c53d877c16315
+      internalID: -706477465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_97
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 800
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64689d57620d81746a7f2d6e4fe653f4
+      internalID: 324913826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b068dc96437f86b49ab364d86c651065
+      internalID: 1215337752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_99
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 700
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089743f59a7447647a06ed6fc3b126f2
+      internalID: 615135158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_100
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 700
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fd91fbbc9a0f5409d8c73e2f76d5dc
+      internalID: -1609104551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_101
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 700
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1ac2918c3d94f4aaf051fccc495de8
+      internalID: 1912531464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_102
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 700
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5e8d4b8324da74c8f8f941981d37c5
+      internalID: -1383707189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_103
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 700
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa20ba2c803090e4eb6edb31e24d1ec8
+      internalID: 1408201282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_104
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 700
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae74d0d17e6f41d4dbe32c7170a8f8da
+      internalID: 1690184267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a7231436ea03d4fb5625ae4eddd6a0
+      internalID: -601075213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 600
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0a786e313088e4aa5a089797c96e12
+      internalID: 1856348857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_107
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 600
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802837a5a732aff4cab19af61ead3375
+      internalID: 663772527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_108
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 600
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090c708d5319a9c43a454fc2a4ab8466
+      internalID: -66393264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_109
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 600
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd777eb5c68bb174eb2313c2ee4afa23
+      internalID: 311591483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_110
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 600
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2601f244944a63b42962a1cd579b34b3
+      internalID: -801562444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_111
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 600
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f338b0780ea5734cba2ab9761b6107e
+      internalID: -1773589933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a180fab3b2d9f7d4d9797b929ae52094
+      internalID: -1771310223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 500
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca16b8a67581a0d40bcf56a5ee9c0c47
+      internalID: -1643153091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_114
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 500
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5588f4e1c78311b49b07f4c61faa05a8
+      internalID: 2115936705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_115
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 500
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e532a59ec47eb4ab75b2ccb7b931ca
+      internalID: -1971967010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_116
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 500
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac98e0a760e483649894810ab87d244d
+      internalID: 870899666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_117
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 500
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c033118fbf52118489e6b003302019b6
+      internalID: 476972356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_118
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 500
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7866ead9cc9404f4394d78235d1c336c
+      internalID: 1634478221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf82f11942511f0489c857304e09faa7
+      internalID: -1510756620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_120
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471c1c40e4aa3a1478814aa9fc1d367b
+      internalID: -824481874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_121
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 400
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2d7c4e12a7f0a49ac4a7000e259ad3
+      internalID: -255762293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_122
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 400
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0139468e358702d4381b8bdc4e601659
+      internalID: -1036173392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_123
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 400
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9f8bf1cedeb5a4587ce29bddf784b1
+      internalID: -129896782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_124
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 400
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f330162588e8b4db5611ca51d5cdf9
+      internalID: 809166804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_125
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 400
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afb107c8d404734e93fb5753495b805
+      internalID: 317411306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d348dd58ec31b948a13f8f5becadb9d
+      internalID: 472730479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_127
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 300
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08022aa6b2c5fcc47bf9c81a06a44aaf
+      internalID: -1321159208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_128
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 300
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cb224033fb7584da9e2356f447ea69
+      internalID: -272202010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_129
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 300
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c25f260e609d6248872ae431b0f5d90
+      internalID: -1210790109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_130
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 300
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4956f1a71d239fe4fb3dc6126d747cc5
+      internalID: -1449932480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_131
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 300
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9be4e84315880b479fc70adc710cd8e
+      internalID: -1877651602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_132
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 300
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2e8d7b2699cea4aaf4ce9e7d90407e
+      internalID: 646778438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d910d4541b8cd4c821e9a41497ad86
+      internalID: -313012461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_134
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 200
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a4005739d2dcd4792f38e5379462fe
+      internalID: -1368911322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_135
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 200
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680349545e3283f46ae010b9ad52c687
+      internalID: -517011409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_136
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 200
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e2c135ebc34be47b961d395a6c3d74
+      internalID: 1859554538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_137
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 200
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e07ed77d56f4e840907e11da465e215
+      internalID: -441225648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_138
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 200
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9131710f320aa5444b9c77f8808ee8b7
+      internalID: 997729370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_139
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 200
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba066ccd96593a84b9d349ed9c223956
+      internalID: -1853799592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090bcafc7b2557940a2e7526211e52df
+      internalID: -1273272243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_141
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7644f8388a5b444b577a5e33488319
+      internalID: 836946294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_142
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54aed63dc8f94e84a966b5376ac5a551
+      internalID: 404592049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_143
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452a64564b793ba43b0da34e766cb7e7
+      internalID: 1215194176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_144
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632a18094b4ba2e4bb5ffe7b19f5e8d6
+      internalID: -642827532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_145
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff56af54de53ad45abce1984fa58980
+      internalID: -982381047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_146
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 100
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9b18e372d97c945b06f7be8ed9ae46
+      internalID: -292003126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025633f0e31eb8c4ea228bf44cee3d94
+      internalID: -1068780468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_148
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8569a3f35fa29d42a8f6d08f935a39e
+      internalID: -1637803598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingLevel03_149
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82530e8bb5c67cf41b5edb928b12827b
+      internalID: 1960035062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eda86c1eee5cbd041a64a104e6d21910
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EndingLevel03_0: -1125385377
+      EndingLevel03_1: 1760557410
+      EndingLevel03_10: -1766174178
+      EndingLevel03_100: -1609104551
+      EndingLevel03_101: 1912531464
+      EndingLevel03_102: -1383707189
+      EndingLevel03_103: 1408201282
+      EndingLevel03_104: 1690184267
+      EndingLevel03_105: -601075213
+      EndingLevel03_106: 1856348857
+      EndingLevel03_107: 663772527
+      EndingLevel03_108: -66393264
+      EndingLevel03_109: 311591483
+      EndingLevel03_11: -2077277494
+      EndingLevel03_110: -801562444
+      EndingLevel03_111: -1773589933
+      EndingLevel03_112: -1771310223
+      EndingLevel03_113: -1643153091
+      EndingLevel03_114: 2115936705
+      EndingLevel03_115: -1971967010
+      EndingLevel03_116: 870899666
+      EndingLevel03_117: 476972356
+      EndingLevel03_118: 1634478221
+      EndingLevel03_119: -1510756620
+      EndingLevel03_12: -870375300
+      EndingLevel03_120: -824481874
+      EndingLevel03_121: -255762293
+      EndingLevel03_122: -1036173392
+      EndingLevel03_123: -129896782
+      EndingLevel03_124: 809166804
+      EndingLevel03_125: 317411306
+      EndingLevel03_126: 472730479
+      EndingLevel03_127: -1321159208
+      EndingLevel03_128: -272202010
+      EndingLevel03_129: -1210790109
+      EndingLevel03_13: -920239667
+      EndingLevel03_130: -1449932480
+      EndingLevel03_131: -1877651602
+      EndingLevel03_132: 646778438
+      EndingLevel03_133: -313012461
+      EndingLevel03_134: -1368911322
+      EndingLevel03_135: -517011409
+      EndingLevel03_136: 1859554538
+      EndingLevel03_137: -441225648
+      EndingLevel03_138: 997729370
+      EndingLevel03_139: -1853799592
+      EndingLevel03_14: -1091701708
+      EndingLevel03_140: -1273272243
+      EndingLevel03_141: 836946294
+      EndingLevel03_142: 404592049
+      EndingLevel03_143: 1215194176
+      EndingLevel03_144: -642827532
+      EndingLevel03_145: -982381047
+      EndingLevel03_146: -292003126
+      EndingLevel03_147: -1068780468
+      EndingLevel03_148: -1637803598
+      EndingLevel03_149: 1960035062
+      EndingLevel03_15: 971166207
+      EndingLevel03_16: -1645453545
+      EndingLevel03_17: -104521477
+      EndingLevel03_18: -1498650519
+      EndingLevel03_19: 1325251486
+      EndingLevel03_2: 880400767
+      EndingLevel03_20: 41727245
+      EndingLevel03_21: 1026009063
+      EndingLevel03_22: 1655291795
+      EndingLevel03_23: -2082149674
+      EndingLevel03_24: 1115816927
+      EndingLevel03_25: 2026949611
+      EndingLevel03_26: -384723093
+      EndingLevel03_27: -1290473585
+      EndingLevel03_28: -1393470693
+      EndingLevel03_29: -1413961866
+      EndingLevel03_3: 58685305
+      EndingLevel03_30: -1400595486
+      EndingLevel03_31: -223102014
+      EndingLevel03_32: 1673260307
+      EndingLevel03_33: 1893974659
+      EndingLevel03_34: 291109712
+      EndingLevel03_35: -468664582
+      EndingLevel03_36: 1839837297
+      EndingLevel03_37: -244530608
+      EndingLevel03_38: 1835530354
+      EndingLevel03_39: -757137010
+      EndingLevel03_4: 558088356
+      EndingLevel03_40: 52961197
+      EndingLevel03_41: 280179659
+      EndingLevel03_42: 1205179809
+      EndingLevel03_43: -166523203
+      EndingLevel03_44: -1808031294
+      EndingLevel03_45: -350284325
+      EndingLevel03_46: -1866043712
+      EndingLevel03_47: 831869578
+      EndingLevel03_48: -1960895799
+      EndingLevel03_49: -271848103
+      EndingLevel03_5: -215967638
+      EndingLevel03_50: 885978715
+      EndingLevel03_51: 1953762867
+      EndingLevel03_52: -1192043801
+      EndingLevel03_53: 1665279165
+      EndingLevel03_54: -1690836820
+      EndingLevel03_55: 800704043
+      EndingLevel03_56: -736773910
+      EndingLevel03_57: -1987362816
+      EndingLevel03_58: 457435446
+      EndingLevel03_59: 2074785521
+      EndingLevel03_6: -700550890
+      EndingLevel03_60: -621420227
+      EndingLevel03_61: 568741523
+      EndingLevel03_62: -1153279921
+      EndingLevel03_63: -1170541304
+      EndingLevel03_64: -1585502331
+      EndingLevel03_65: -2083804502
+      EndingLevel03_66: 674896027
+      EndingLevel03_67: 378696093
+      EndingLevel03_68: 542236334
+      EndingLevel03_69: 1828021784
+      EndingLevel03_7: 300310899
+      EndingLevel03_70: -1309765853
+      EndingLevel03_71: 607326457
+      EndingLevel03_72: 434598681
+      EndingLevel03_73: -754313479
+      EndingLevel03_74: -647217434
+      EndingLevel03_75: -891644241
+      EndingLevel03_76: -1667917489
+      EndingLevel03_77: -68865312
+      EndingLevel03_78: 1293842158
+      EndingLevel03_79: 891499836
+      EndingLevel03_8: 761887311
+      EndingLevel03_80: -638270302
+      EndingLevel03_81: 1449162200
+      EndingLevel03_82: 1873190593
+      EndingLevel03_83: 329602441
+      EndingLevel03_84: 1978615553
+      EndingLevel03_85: -1318657891
+      EndingLevel03_86: 1744281662
+      EndingLevel03_87: -1945342458
+      EndingLevel03_88: 69089940
+      EndingLevel03_89: -366817412
+      EndingLevel03_9: 2090027481
+      EndingLevel03_90: 97565176
+      EndingLevel03_91: -521398786
+      EndingLevel03_92: 907399745
+      EndingLevel03_93: 2137130847
+      EndingLevel03_94: -1151407813
+      EndingLevel03_95: -1254080440
+      EndingLevel03_96: -706477465
+      EndingLevel03_97: 324913826
+      EndingLevel03_98: 1215337752
+      EndingLevel03_99: 615135158
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
